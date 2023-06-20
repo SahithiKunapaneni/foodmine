@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@angular/cli": "^16.1.0",
+    "fund": "^1.0.0"
+  }
+}
